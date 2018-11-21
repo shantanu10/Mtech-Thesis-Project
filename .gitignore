@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+Glove
+Glove/*
+*.pkl
+*.sqlite
+
