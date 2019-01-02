@@ -121,3 +121,8 @@ Glove/*
 
 # Pyre type checker
 .pyre/
+
+# models and weights
+*.sav
+*.h5
+*.json
